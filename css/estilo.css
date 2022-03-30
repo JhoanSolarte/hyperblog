@@ -2,5 +2,12 @@ body
 { color: blue;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-
+}
+p
+{ color: darkred;
+}
+head
+{
+    color: deeppink;
+    
 }
